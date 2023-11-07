@@ -481,7 +481,7 @@ section {
 }
 #about .about-container .background {
   min-height: 1200px;
-  background: url(assets/img/IMG/_1457.PNG) center top no-repeat; /* this sets the image and properties on the about page */
+  background: url(/img/IMG/_1457.PNG) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
 #about .about-container .content {
