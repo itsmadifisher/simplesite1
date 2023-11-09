@@ -481,7 +481,7 @@ section {
 }
 #about .about-container .background {
   min-height: 1200px;
-  background: url(https://github.com/itsmadifisher/simplesite1/commit/d837c65a6fd0d0d30952d9cf65ce295986ede49a) center top no-repeat; /* this sets the image and properties on the about page */
+  background: url(https://github.com/itsmadifisher/simplesite1/blob/main/assets/img/IMG_1457.PNG?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
   margin-bottom: 0px;
 }
 #about .about-container .content {
